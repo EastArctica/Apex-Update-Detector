@@ -1,0 +1,27 @@
+{
+  "name": "apex-update-detector",
+  "version": "1.0.0",
+  "description": "Detects updates for Apex Legends via steam and sends them over Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastArctica/apex-update-detector.git"
+  },
+  "keywords": [
+    "Apex-Legends",
+    "Discord"
+  ],
+  "author": "East_Arctica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EastArctica/apex-update-detector/issues"
+  },
+  "homepage": "https://github.com/EastArctica/apex-update-detector#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "steam-user": "^4.24.3"
+  }
+}
